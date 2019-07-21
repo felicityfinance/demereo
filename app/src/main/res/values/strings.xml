@@ -6,9 +6,11 @@
     <string name="sliderDesc1">Nourish the culture of cooperation.</string>
     <string name="sliderTitle2">Think hard</string>
     <string name="sliderDesc2">Think hard to come up with best ideas
-        to solve problems and engage with challenges.</string>
+        to solve problems and engage with challenges.
+    </string>
     <string name="sliderTitle3">Reach an idea meritocracy</string>
     <string name="sliderDesc3">Make sure that best ideas win to
         deal with challenges more effectively and to ultimately
-        make your company more competitive.</string>
+        make your company more competitive.
+    </string>
 </resources>

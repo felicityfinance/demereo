@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/sliderPage2">
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/sliderTitle2"
+              android:layout_centerInParent="true"
+              android:textSize="33sp"
+              android:textStyle="bold"
+              android:id="@+id/collaborateTextView"
+              android:layout_marginTop="33sp"
+              android:layout_below="@id/collaborateImageView"
+
+    />
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_below="@id/collaborateTextView"
+              android:id="@+id/collaborateDescTextView"
+              android:layout_centerHorizontal="true"
+              android:layout_marginTop="21sp"
+              android:text="@string/sliderDesc2"
+
+    />
+
+    <ImageView android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/think"
+               android:scaleType="fitCenter"
+               android:maxHeight="180sp"
+               android:maxWidth="180sp"
+               android:adjustViewBounds="true"
+               android:layout_centerHorizontal="true"
+               android:layout_marginTop="180sp"
+               android:id="@+id/collaborateImageView"
+
+    />
+
+</RelativeLayout>
