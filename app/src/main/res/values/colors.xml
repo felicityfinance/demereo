@@ -3,8 +3,12 @@
     <color name="colorPrimary">#389</color>
     <color name="colorPrimaryDark">#389</color>
     <color name="colorAccent">#389</color>
+    <color name="defaultColor">#389</color>
 
     <color name="active_dots">#ffffff</color>
     <color name="inactive_dots">#03DAC6</color>
 
+    <color name="sliderPage1">#41c300</color>
+    <color name="sliderPage2">#021aee</color>
+    <color name="sliderPage3">#ee0290</color>
 </resources>
