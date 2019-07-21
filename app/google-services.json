@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305678177514",
+    "firebase_url": "https://felicity-demereo.firebaseio.com",
+    "project_id": "felicity-demereo",
+    "storage_bucket": "felicity-demereo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305678177514:android:0ead8e6a9ce2193e",
+        "android_client_info": {
+          "package_name": "com.felicityfinance.demereo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305678177514-9824a8nv4rm41r8gdokacnercjinb6q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxCURNdDE3ESc7HJR2ocn2-Orv-C-BSLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305678177514-9824a8nv4rm41r8gdokacnercjinb6q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
