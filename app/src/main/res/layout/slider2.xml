@@ -11,6 +11,7 @@
               android:layout_centerInParent="true"
               android:textSize="33sp"
               android:textStyle="bold"
+              android:textColor="#FFFFFF"
               android:id="@+id/collaborateTextView"
               android:layout_marginTop="33sp"
               android:layout_below="@id/collaborateImageView"
@@ -22,7 +23,9 @@
               android:layout_below="@id/collaborateTextView"
               android:id="@+id/collaborateDescTextView"
               android:layout_centerHorizontal="true"
+              android:textColor="#FFFFFF"
               android:layout_marginTop="21sp"
+              android:padding="21sp"
               android:text="@string/sliderDesc2"
 
     />
